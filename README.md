@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/astromined-pygithub-mcp-server-badge.png)](https://mseep.ai/app/astromined-pygithub-mcp-server)
+
 # PyGithub MCP Server
 
 A Model Context Protocol server that provides tools for interacting with the GitHub API through PyGithub. This server enables AI assistants to perform GitHub operations like managing issues, repositories, and pull requests.
